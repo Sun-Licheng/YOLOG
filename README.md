@@ -2,9 +2,9 @@
 # YOLOG:An improved YOLOv5-based method of safety helmet-wearing detection on construction sites
 
 
-## [Paper Page]() | [Code Page](https://github.com/Sun-Licheng/YOLOG)code coming soon!
+## [Paper Page]() | [Code Page](https://github.com/Sun-Licheng/YOLOG)
 
-**Tips**: If you meet any problems when reproduce our results, please contact Licheng Sun (Leecheng_sun@126.com). We are happy to help you solve the problems and share our experience.
+**Tips**: Code coming soon! If you meet any problems when reproduce our results, please contact Licheng Sun (Leecheng_sun@126.com). We are happy to help you solve the problems and share our experience.
 
 ### 💻Application Show
 To further verify the proposed method, we applied it in construction. We have developed a helmet intelligent detection system and have already applied them on construction sites. Helmet intelligent detection can realize real-time high-precision safety helmet wearing detection in various complex construction. The results of the developed helmet intelligent detection system also strongly validate the proposed method.
