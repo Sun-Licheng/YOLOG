@@ -29,7 +29,7 @@ Our code is being prepared and will be available soon after the paper is accepte
 
 In order to use YOLOG to detect safety helmets in construction sites, clone this repo:
 ```
-git clone https://github.com/MegviiRobot/TransMVSNet.git
+git clone https://github.com/Sun-Licheng/YOLOG.git
 cd YOLOG
 ```
 **Please:** Coming soon ! ! !
