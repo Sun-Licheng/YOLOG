@@ -9,7 +9,7 @@
 ### 💻Application Show
 To further verify the proposed method, we applied it in construction. We have developed a helmet intelligent detection system and have already applied them on construction sites. Helmet intelligent detection can realize real-time high-precision safety helmet wearing detection in various complex construction. The results of the developed helmet intelligent detection system also strongly validate the proposed method.
 
-The application is already compatible with Win10, ubuntu and centOS, and the [application documentation](./) will be available soon.
+The application is already compatible with Win10, ubuntu and centOS, and the [application documentation](./) will be published soon.
 
 ![](assets/application.png)
 
