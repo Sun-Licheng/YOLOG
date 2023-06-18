@@ -2,7 +2,7 @@
 # YOLOG:An improved YOLOv5-based method of safety helmet-wearing detection on construction sites
 
 
-## [Paper Page]() | [Code Page](https://github.com/Sun-Licheng/YOLOG) 
+## [Paper Page]() | [Code Page](https://github.com/Sun-Licheng/YOLOG)code coming soon!
 
 **Tips**: If you meet any problems when reproduce our results, please contact Licheng Sun (Leecheng_sun@126.com). We are happy to help you solve the problems and share our experience.
 
