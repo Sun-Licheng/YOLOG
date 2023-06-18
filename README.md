@@ -39,14 +39,11 @@ cd YOLOG
 ![](assets/result.png)
 
 The YOLOG is better suitable for safety helmet detection tasks and provides better detection of safety helmets in a construction environment. Our method is even faster and more accurate than the YOLOV7 for detecting helmets in construction environments.
-
 ####✔ Special note
 
  We have tested the comparison between the YOLOV7 and our method in real surveillance video. It can be seen that sometimes YOLO V7 will miss detection and misjudgment when detecting similar objects. Especially in the detection of ordinary hats and helmets, the number of missed detection or misjudgment occurs the most. In addition, in detecting small objects and edge objects, it can be seen that our method is obviously superior to state-of-the-art model–-YOLO V7.
 
 ![](assets/comparison.png)
-
-
 ####✔ Generalization
 
 We verified the generalization and portability of the MSCAMNet and Detection network module in this paper. We directly transplant them to the YOLO V7 network without changing the network structure, and we can see that the detection performance of YOLO V7 is greatly improved.
