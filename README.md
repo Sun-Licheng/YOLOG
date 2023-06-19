@@ -6,7 +6,7 @@
 # YOLOG:An improved YOLOv5-based method of safety helmet-wearing detection on construction sites
 <div align="center">
     <a href="https://github.com/Sun-Licheng/YOLOG" target="_blank">
-      <img width="60%" src="https://github.com/ultralytics/assets/blob/main/social/logo-social-discord.png"></a>
+     <img alt="Static Badge" src="https://img.shields.io/badge/version-1.0.0-blue">
 </div>
 
 ## [Paper Page]() | [Code Page](https://github.com/Sun-Licheng/YOLOG)
