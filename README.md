@@ -20,6 +20,7 @@ The application is already compatible with Win10, ubuntu and CentOS, and the [ap
 
 
 ### 📔 Introduction
+![](assets/abstract.png)
 
 In this paper, we present YOLOG, based on our exploration of safety helmet-wearing detection algorithm on construction sites. Although some existing algorithms can achieve helmet detection in surveillance videos and images, their accuracy and speed are still poor, since the site is a complex environment with occlusion and clutters. And the model computation is also large and cannot be applied to construction scenes. In addition, safety helmets are smaller target objects. However, as the depth of the neural network increases, it may cause the loss of spatial information about objects, which may also cause problems such as missed objects. 
 
