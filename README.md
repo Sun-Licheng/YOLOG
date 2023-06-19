@@ -1,7 +1,7 @@
 <div align="center">
   <p>
     <a href="https://github.com/Sun-Licheng/YOLOG" target="_blank">
-      <img width="100%" src="assets/YOLOG.png"></a>
+      <img width="60%" src="assets/YOLOG.png"></a>
   </p>
 
 <br>
