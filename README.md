@@ -9,8 +9,6 @@
     <a href="https://github.com/Sun-Licheng/YOLOG" target="_blank">
         <img alt="Static Badge" src="https://img.shields.io/badge/version-1.0.0-blue">
         <img alt="Static Badge" src="https://img.shields.io/badge/contributors-2-green">
-        <img alt="Static Badge" src="https://img.shields.io/badge/speed-33-green">
-        <img alt="Static Badge" src="https://img.shields.io/badge/mAP-96.3-green">
         <img alt="Static Badge" src="https://img.shields.io/badge/application-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-green">
         <img alt="Static Badge" src="https://img.shields.io/badge/paper-waiting-green">
         <img alt="Static Badge" src="https://img.shields.io/badge/code-waiting-green">
