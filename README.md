@@ -12,6 +12,8 @@
         <img alt="Static Badge" src="https://img.shields.io/badge/speed-33-green">
         <img alt="Static Badge" src="https://img.shields.io/badge/mAP-96.3-green">
         <img alt="Static Badge" src="https://img.shields.io/badge/application-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-green">
+        <img alt="Static Badge" src="https://img.shields.io/badge/paper-waiting-green">
+        <img alt="Static Badge" src="https://img.shields.io/badge/code-waiting-green">
         <img alt="Static Badge" src="https://img.shields.io/badge/license-BSD2%2FBSD3-orange">
         <img alt="Twitter URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fleecheng_sun%40126.com&logo=gmail&label=mail%40licheng_sun">
 
