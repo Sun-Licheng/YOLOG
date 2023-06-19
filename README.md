@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    <a href="  https://github.com/Sun-Licheng/YOLOG/blob/main/assets/YOLOG.png" target="_blank">
+    <a href="assets/YOLOG.png" target="_blank">
       <img width="100%" src="    https://github.com/Sun-Licheng/YOLOG/blob/main/assets/YOLOG.png/blob/main/assets/YOLOG.png"></a>
   </p>
 
