@@ -1,9 +1,7 @@
 <div align="center">
-  <p>
     <a href="https://github.com/Sun-Licheng/YOLOG" target="_blank">
       <img width="60%" src="assets/YOLOG.png"></a>
-  </p>
-<br></div>
+</div>
 
 # YOLOG:An improved YOLOv5-based method of safety helmet-wearing detection on construction sites
 
